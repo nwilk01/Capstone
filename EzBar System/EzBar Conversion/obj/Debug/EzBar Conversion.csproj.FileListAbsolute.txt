@@ -1,0 +1,93 @@
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+C:\Users\Nathan\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.dll
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.pdb
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.xml
+E:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+E:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+E:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+E:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.pdb
+E:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.xml
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+E:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.dll
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.xml
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.pdb
+G:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.xml
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+G:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.dll
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.xml
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.pdb
+F:\EzBar Conversion\EzBar Conversion\bin\Debug\RaspberryPiDotNet.xml
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+F:\EzBar Conversion\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\EzBar Conversion\EzBar Conversion\bin\Debug\mysql.data.xml
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\EzBar Conversion.exe.config
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar Conversion.exe
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar Conversion.pdb
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\EzBar Conversion.exe
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\EzBar Conversion.pdb
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\RaspberryPiDotNet.dll
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\mysql.data.xml
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\RaspberryPiDotNet.pdb
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\bin\Debug\RaspberryPiDotNet.xml
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar_Conversion.AllDrinks.resources
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar_Conversion.HomeScreen.resources
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar_Conversion.LockScreen.resources
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar_Conversion.Properties.Resources.resources
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar_Conversion.Searchby.resources
+C:\Users\Admin\Desktop\EzBar System\EzBar Conversion\obj\Debug\EzBar Conversion.csproj.GenerateResource.Cache

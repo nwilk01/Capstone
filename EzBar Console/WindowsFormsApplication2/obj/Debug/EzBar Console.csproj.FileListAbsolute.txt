@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ConnectionFactory.resources
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Payment.resources
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Home.resources
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.exe.config
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ConnectionFactory.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Payment.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Home.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EzBar Console.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\bin\Debug\EzBar Console.exe.config
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\bin\Debug\EzBar Console.exe
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\bin\Debug\EzBar Console.pdb
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\bin\Debug\mysql.data.dll
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\EzBar Console.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ConnectionFactory.resources
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Payment.resources
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Home.resources
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Desktop\EzBar Console\WindowsFormsApplication2\obj\Debug\EzBar Console.csproj.GenerateResource.Cache
