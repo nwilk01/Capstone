@@ -1,5 +1,5 @@
 ﻿/************************************************************************************************
-/ Nathan Wilk                                                                                   /
+/ Evan Mladinov                                                                                 /
 / 4/26/2017                                                                                     /
 / This code is to initial the pins on a Raspberry Pi 3. Along with the initialization are       /
 / functions that turn on the pins when called for a time that is passed into them               /
